@@ -1,0 +1,16 @@
+.competence__card {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #1f1f1f;
+    border: 1px solid #999999;
+}
+
+.competence__card:hover {
+    background-color: #1c1c1c;
+}
+
+.competence__card .image__round {
+    margin-right: 10px;
+}
