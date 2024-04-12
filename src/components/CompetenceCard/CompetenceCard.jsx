@@ -1,6 +1,6 @@
 import React from 'react';
-import ImageRound from "../ImageRound/ImageRound";
 import "./CompetenceCard.css";
+import ImageRound from '#components/ImageRound/ImageRound';
 
 const CompetenceCard = ({competence}) => {
     return (

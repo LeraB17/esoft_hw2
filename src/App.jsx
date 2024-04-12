@@ -1,6 +1,6 @@
 import './App.css'
-import Avatar from './components/Avatar/Avatar'
-import CompetenceColumn from './components/CompetenceColumn/CompetenceColumn'
+import Avatar from '#components/Avatar/Avatar'
+import CompetenceColumn from '#components/CompetenceColumn/CompetenceColumn'
 
 function App() {
 

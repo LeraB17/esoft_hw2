@@ -1,6 +1,6 @@
 import React from 'react';
 import './Avatar.css';
-import ImageRound from '../ImageRound/ImageRound';
+import ImageRound from '#components/ImageRound/ImageRound';
 import Info from './Info/Info';
 
 const Avatar = ({user, className}) => {

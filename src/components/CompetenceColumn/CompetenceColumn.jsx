@@ -1,6 +1,6 @@
 import React from 'react';
-import CompetenceCard from "../CompetenceCard/CompetenceCard";
 import "./CompetenceColumn.css";
+import CompetenceCard from '#components/CompetenceCard/CompetenceCard';
 
 const CompetenceColumn = ({title, competencies}) => {
     return (
