@@ -1,0 +1,14 @@
+.avatar__info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 16pt;
+}
+
+.avatar__info .info__item {
+    text-align: center;
+}
+
+.avatar__info .github__link {
+    font-size: smaller;
+}
